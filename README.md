@@ -9,8 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ldywinner)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JINNY)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldywinner)](https://github.com/anuraghazra/github-readme-stats)
- 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
