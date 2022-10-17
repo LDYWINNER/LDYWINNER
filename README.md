@@ -9,8 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldywinner)](https://github.com/ldywinner/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldywinner&layout=compact)](https://github.com/ldywinner/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JINNY)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldywinner)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
