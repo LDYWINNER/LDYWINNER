@@ -5,7 +5,7 @@
 - 🐶 I’m planning to learn React Native, Nextjs
 - 📫 How to reach me: ldywinner@gmail.com
 
-`![](https://gh-hits.nomadcoders.workers.dev/view?username=$LDYWINNER)`
+![](https://gh-hits.nomadcoders.workers.dev/view?username=$LDYWINNER)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
