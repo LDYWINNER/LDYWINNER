@@ -22,6 +22,8 @@
 <img height='25' src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=OCaml&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <br>
 <img height='25' src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components CSS&logoColor=white"/>
