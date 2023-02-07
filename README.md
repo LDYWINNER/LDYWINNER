@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for a proptech startup called Livable
-- 🌱 I’m currently studying TS, React, Express, MongoDB
+- 🌱 I’m currently studying MERN stack, Typescript
 - 🐶 I’m planning to learn React Native, Nextjs, Nestjs, GraphQL
 - 📫 How to reach me: ldywinner@gmail.com
 
