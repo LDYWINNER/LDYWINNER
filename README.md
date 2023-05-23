@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying MERN stack, Typescript
-- 🐶 I’m planning to learn React Native, Nextjs, Nestjs, GraphQL
+- 🌱 I’m currently studying React Native, Computer Vision
+- 🐶 I’m planning to learn Nextjs, Nestjs, GraphQL
 - 📫 How to reach me: ldywinner@gmail.com
 
 
