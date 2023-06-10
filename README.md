@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently studying React Native, Computer Vision
 - 🐶 I’m planning to learn Nextjs, Nestjs, GraphQL
-- 📫 How to reach me: ldywinner@gmail.com
 - 🙌🏻 Blog: https://velog.io/@ldywinner
 
 
