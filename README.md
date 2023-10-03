@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying React Native, ML, DL
-- 🐶 I’m planning to learn Nextjs, Nestjs, GraphQL
+- 🌱 I’m currently studying React Native, Nextjs, and AI 
+- 🐶 I’m planning to learn Nestjs, GraphQL
 - 🙌🏻 Blog: https://dongsunseng.com
 
 
