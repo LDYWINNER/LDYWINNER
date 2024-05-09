@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying AWS and Nextjs
 - 🚀 I define myself as a maker who conducts various projects
 - 1️⃣ EzImport - 구매대행사업 지원 소프트웨어 웹 (2024 May ~)
 - 2️⃣ 쑤강평 - 모교 수강평 열람 모바일 앱 (2024 Mar ~): 150+ 유저 & 500+ 수강평
