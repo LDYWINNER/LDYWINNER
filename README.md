@@ -4,8 +4,7 @@
 - 🚀 I define myself as a maker who conducts various projects
 - 1️⃣ EzImport - 구매대행사업 지원 소프트웨어 웹 (2024 May ~)
 - 2️⃣ 쑤강평 - 모교 수강평 열람 모바일 앱 (2024 Mar ~): 150+ 유저 & 500+ 수강평
-- 3️⃣ 쑤니타임 - 모교 수강평 열람 웹사이트 (2023 Apr ~ 2024 Feb): 100+ 유저 & 400+ 수강평
-- 4️⃣ Coming soon: FashionMate - AI 기반 옷장 모바일 앱 (2024 May ~)
+- 3️⃣ 쑤니타임 - 모교 수강평 열람 웹사이트 (2023 Apr ~ 2024 Feb): 100+ 유저 & 300+ 수강평
 
 
 
